@@ -1,26 +1,35 @@
 /* Color Palette
-# - color 1
-# - color 2
-# - color 3
-# - color 4
+whitesmoke  - section baclground
+black - text/letter color
+#D1D4C9 - main background 
+#3887BE - header and footer
 */
 
 /* Global styles 
 ------------------------------------*/
 body {
-    background: lightblue;
+    background: whitesmoke;
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
-
-
+header{
+    background: #29435C ;
+}
+footer{
+    background: #29435C;
+}
 
 /* Work Experience
 ------------------------------------*/
 
-
+.work{
+    background: #3887BE;
+}
 
 /* Education
 ------------------------------------*/
+.education{
+    background: #D1D4C9;
+}
