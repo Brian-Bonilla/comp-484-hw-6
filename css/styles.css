@@ -9,6 +9,8 @@ black - text/letter color
 ------------------------------------*/
 body {
     background: whitesmoke;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
 }
 
 
@@ -16,11 +18,22 @@ body {
 ------------------------------------*/
 header{
     background: #29435C ;
+    
 }
 footer{
     background: #29435C;
+    
 }
-
+h1, h2, h3 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 500;
+}
+h1{
+    font-size: 48px;
+}
+h2{ 
+    font-size: 34px;
+}
 /* Work Experience
 ------------------------------------*/
 
